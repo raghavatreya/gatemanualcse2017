@@ -34,3 +34,10 @@ Theory Of Automata
 Cryptography and Network Security
 1.IIT Lecture
 https://www.youtube.com/playlist?list=PL6tk8xkG6ZQeiohWbTSqW7Czv0HkMxYSA
+
+
+What keeps you Going Upward ?
+Gate Block :-
+
+https://akashkanasegate2016.quora.com/
+https://akashkanasegate2016.quora.com/Do-not-Overstudy
