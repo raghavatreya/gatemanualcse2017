@@ -2,6 +2,10 @@
 Gate Resource :-
 https://gate0000.wordpress.com/2012/05/09/gate-manual/
 
+
+Gate Resource:-
+http://geeksquiz.com/gate-cs-notes/
+
 Computer Organization
 1.Bilkent Online
 https://www.youtube.com/watch?v=-Qw9jfxtsmY&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu&index=10
